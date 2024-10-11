@@ -2,3 +2,5 @@ pandas
 matplotlib
 geopy
 seaborn
+sklearn
+imbalanced-learn
